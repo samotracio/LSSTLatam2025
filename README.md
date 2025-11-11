@@ -9,7 +9,7 @@ This repository contains the notebooks used during the tutorial and the resultin
 * **Example Rubin (260MB):** dataset here -> [http://xxx](someurl) or [here](http://drive/xjwddwd)
 
 ## Pre-requisites
-It is advisable to create a clean Anaconda environment as detailed below:
+It is advisable to create a clean Anaconda (linux) environment as detailed below:
 
 ```
 conda create -n mexdemo python=3.11
@@ -20,7 +20,7 @@ pip install rubin-scheduler
 ```
 The following are optional:
 ```
-pip install ipympl   (for interactive mataplotlib figures)
-pip install jupyterlab_execute_time    (for cell execution time counter and historial) 
-pip install jupyter-resource-usage   (for memory usage indicator)
+pip install ipympl  (for interactive mataplotlib figures)
+pip install jupyterlab_execute_time  (for cell execution time counter and historial) 
+pip install jupyter-resource-usage  (for memory usage indicator)
 ```
