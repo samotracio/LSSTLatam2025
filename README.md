@@ -6,7 +6,7 @@ This repository contains the notebooks used during the tutorial and the resultin
 
 * **Example HSC-SSP (170MB):** dataset here -> [https://tinyurl.com/dataHSC](https://tinyurl.com/dataHSC) or [here](https://drive.google.com/file/d/1Fft9E9uD1eXs-8Dxb8bp5ou1bEtCTkgr/view?usp=sharing)
 
-* **Example Rubin (320MB):** dataset here -> [http://xxx](someurl) or [here](http://drive/xjwddwd)
+* **Example Rubin (320MB):** dataset here -> [https://tinyurl.com/dataNES](https://tinyurl.com/dataNES) or [here](https://drive.google.com/file/d/1ud-aePsMKBpfEsAntczI3CDBoyp-wab8/view?usp=sharing)
 
 ## Pre-requisites
 It is advisable to create a clean Anaconda (linux) environment as detailed below:
