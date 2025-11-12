@@ -2,7 +2,7 @@
 
 # Tutorial : Effcient Angular Masking Generation for Wide-field Astronomical Surveys
 
-This repository contains the notebooks used during the tutorial and the resulting mask pipelines. Clone this repo with `git clone ` to make a copy in your disk. Data files are hosted externally (due to the 100MB file limitation) and can be obtained following the links below.
+This repository contains the notebooks used during the tutorial and the resulting mask pipelines. Clone this repo with `git clone https://github.com/samotracio/LSSTLatam2025.git` to make a copy in your disk. Data files are hosted externally (due to the 100MB file limitation) and can be obtained following the links below.
 
 * **Example HSC-SSP (170MB):** dataset here -> [https://tinyurl.com/dataHSC](https://tinyurl.com/dataHSC) or [here](https://drive.google.com/file/d/1Fft9E9uD1eXs-8Dxb8bp5ou1bEtCTkgr/view?usp=sharing)
 
