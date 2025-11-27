@@ -21,6 +21,7 @@ pip install rubin-scheduler
 The following are optional:
 ```
 pip install ipympl  (for interactive mataplotlib figures)
+pip install -U ipyaladin anywidget ipywidgets (for interactive Aladin plots)
 pip install jupyterlab_execute_time  (for cell execution time counter and historial) 
 pip install jupyter-resource-usage  (for memory usage indicator)
 ```
